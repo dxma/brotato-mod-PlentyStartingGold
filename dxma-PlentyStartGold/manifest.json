@@ -1,0 +1,17 @@
+{
+	"name": "PlentyStartGold",
+	"namespace": "dxma",
+	"version_number": "1.0.0",
+	"description": "Start each run with 100000 material.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["dxma"],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.1.0.0"],
+			"config_schema": {}
+		}
+	}
+}
